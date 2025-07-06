@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Kabeer Shoaib</title><link>https://KabeerBig.github.io/</link><description>Recent content on Kabeer Shoaib</description><generator>Hugo -- 0.147.8</generator><language>en-us</language><lastBuildDate>Sun, 06 Jul 2025 15:58:17 +0400</lastBuildDate><atom:link href="https://KabeerBig.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Beginner guide to Git and GitHub</title><link>https://KabeerBig.github.io/posts/first/</link><pubDate>Sun, 06 Jul 2025 15:58:17 +0400</pubDate><guid>https://KabeerBig.github.io/posts/first/</guid><description>&lt;p>Are you just starting out in programming? Great! Let me introduce you to two of your soon-to-be best friends: &lt;strong>Git&lt;/strong> and &lt;strong>GitHub&lt;/strong>.&lt;/p>
+&lt;hr>
+&lt;h2 id="what-is-git">What Is Git?&lt;/h2>
+&lt;p>&lt;strong>Git&lt;/strong> is a &lt;strong>version control system&lt;/strong>. Imagine you&amp;rsquo;re working on a big project. You want to save different versions of it, go back to a previous version if something breaks, and collaborate with friends without losing work. That&amp;rsquo;s what Git helps you do.&lt;/p>
+&lt;ul>
+&lt;li>Git lets you &lt;strong>track changes&lt;/strong>.&lt;/li>
+&lt;li>Git lets you &lt;strong>revert to previous versions&lt;/strong>.&lt;/li>
+&lt;li>Git helps you &lt;strong>collaborate&lt;/strong> with others safely.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="what-is-github">What Is GitHub?&lt;/h2>
+&lt;p>Think of &lt;strong>GitHub&lt;/strong> as a &lt;strong>cloud for Git repositories&lt;/strong>. It’s a place on the internet where you can upload your Git-tracked projects, share them with the world, or work with others on the same code.&lt;/p></description></item></channel></rss>
