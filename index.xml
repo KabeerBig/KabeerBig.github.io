@@ -1,12 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Kabeer Shoaib</title><link>https://KabeerBig.github.io/</link><description>Recent content on Kabeer Shoaib</description><generator>Hugo -- 0.147.8</generator><language>en-us</language><lastBuildDate>Sun, 06 Jul 2025 15:58:17 +0400</lastBuildDate><atom:link href="https://KabeerBig.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Beginner guide to Git and GitHub</title><link>https://KabeerBig.github.io/posts/first/</link><pubDate>Sun, 06 Jul 2025 15:58:17 +0400</pubDate><guid>https://KabeerBig.github.io/posts/first/</guid><description>&lt;p>Are you just starting out in programming? Great! Let me introduce you to two of your soon-to-be best friends: &lt;strong>Git&lt;/strong> and &lt;strong>GitHub&lt;/strong>.&lt;/p>
-&lt;hr>
-&lt;h2 id="what-is-git">What Is Git?&lt;/h2>
-&lt;p>&lt;strong>Git&lt;/strong> is a &lt;strong>version control system&lt;/strong>. Imagine you&amp;rsquo;re working on a big project. You want to save different versions of it, go back to a previous version if something breaks, and collaborate with friends without losing work. That&amp;rsquo;s what Git helps you do.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Kabeer Shoaib</title><link>https://KabeerBig.github.io/</link><description>Recent content on Kabeer Shoaib</description><generator>Hugo -- 0.147.8</generator><language>en-us</language><lastBuildDate>Sun, 06 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://KabeerBig.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Setting up a Website using GitHub Pages</title><link>https://KabeerBig.github.io/posts/second/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://KabeerBig.github.io/posts/second/</guid><description>&lt;p>This is a guide that will help you in creating your own personal website using &lt;a href="https://gohugo.io/">Hugo&lt;/a>, and deplyoing it with GitHub pages&lt;/p>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
 &lt;ul>
-&lt;li>Git lets you &lt;strong>track changes&lt;/strong>.&lt;/li>
-&lt;li>Git lets you &lt;strong>revert to previous versions&lt;/strong>.&lt;/li>
-&lt;li>Git helps you &lt;strong>collaborate&lt;/strong> with others safely.&lt;/li>
+&lt;li>Git installed&lt;/li>
+&lt;li>Hugo installed&lt;/li>
+&lt;li>GitHub Account&lt;/li>
+&lt;li>Knowing how to use the terminal&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;h2 id="what-is-github">What Is GitHub?&lt;/h2>
-&lt;p>Think of &lt;strong>GitHub&lt;/strong> as a &lt;strong>cloud for Git repositories&lt;/strong>. It’s a place on the internet where you can upload your Git-tracked projects, share them with the world, or work with others on the same code.&lt;/p></description></item></channel></rss>
+&lt;h2 id="step-1-installing-hugo">Step 1: Installing Hugo&lt;/h2>
+&lt;p>I use &lt;strong>Arch&lt;/strong> so i installed it using:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo pacman -S hugo
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>For Debian/Ubuntu users:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo apt install hugo
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="step-2-creating-you-hugo-site">Step 2: Creating you hugo site&lt;/h2>
+&lt;p>Open terminal and run:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>hugo new site&amp;lt;enter name of site&amp;gt; &lt;span style="color:#75715e">#this allows to install all the main files that hugo allows&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cd &amp;lt;name of your site&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="step-3-choosing-theme">Step 3: Choosing theme:&lt;/h2>
+&lt;p>There are many themes you can choose from on the Hugo site &lt;a href="https://themes.gohugo.io./">Hugo Themes&lt;/a>.I chose PaperMod because it has a very slick and clean look to it.&lt;/p></description></item><item><title>Beginner guide to Git and GitHub</title><link>https://KabeerBig.github.io/posts/first/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://KabeerBig.github.io/posts/first/</guid><description>&lt;hr>
+&lt;h2 id="publishresources-false">title: &amp;ldquo;Content Placeholder&amp;rdquo;
+build:
+render: never
+list: never
+publishResources: false&lt;/h2>
+&lt;p>Are you just starting out in programming? Great! Let me introduce you to two of your soon-to-be best friends: &lt;strong>Git&lt;/strong> and &lt;strong>GitHub&lt;/strong>.&lt;/p>
+&lt;hr>
+&lt;h2 id="what-is-git">What Is Git?&lt;/h2>
+&lt;p>&lt;strong>Git&lt;/strong> is a &lt;strong>version control system&lt;/strong>. Imagine you&amp;rsquo;re working on a big project. You want to save different versions of it, go back to a previous version if something breaks, and collaborate with friends without losing work. That&amp;rsquo;s what Git helps you do.&lt;/p></description></item></channel></rss>
