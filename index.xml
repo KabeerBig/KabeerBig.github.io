@@ -1,31 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Kabeer Shoaib</title><link>https://KabeerBig.github.io/</link><description>Recent content on Kabeer Shoaib</description><generator>Hugo -- 0.147.8</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:20:44 +0400</lastBuildDate><atom:link href="https://KabeerBig.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding and Setting up VOIP with the help of Asterisk</title><link>https://KabeerBig.github.io/posts/third/</link><pubDate>Wed, 09 Jul 2025 00:20:44 +0400</pubDate><guid>https://KabeerBig.github.io/posts/third/</guid><description>&lt;p>Have you ever wondered how does communication with one another work on a network and what is the science behind it. This blog will give a touch on what its like to connect and send digitalized packets over an internet connection&lt;/p>
-&lt;h2 id="-what-is-voip">🧠 What is VoIP?&lt;/h2>
-&lt;p>&lt;strong>VoIP (Voice over Internet Protocol)&lt;/strong> is a protocal that allows us humans to perform voice communication over the internet instead of traditional telephone networks (PSTN). Top main communication companies such as Instagram, Whatssapp, Google make use of VOIP in setting up their communication systems&lt;/p></description></item><item><title>Setting up a Website using GitHub Pages</title><link>https://KabeerBig.github.io/posts/second/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://KabeerBig.github.io/posts/second/</guid><description>&lt;p>This is a guide that will help you in creating your own personal website using &lt;a href="https://gohugo.io/">Hugo&lt;/a>, and deplyoing it with GitHub pages&lt;/p>
-&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
-&lt;ul>
-&lt;li>Git installed&lt;/li>
-&lt;li>Hugo installed&lt;/li>
-&lt;li>GitHub Account&lt;/li>
-&lt;li>Knowing how to use the terminal&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="step-1-installing-hugo">Step 1: Installing Hugo&lt;/h2>
-&lt;p>I use &lt;strong>Arch&lt;/strong> so i installed it using:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo pacman -S hugo
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>For Debian/Ubuntu users:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo apt install hugo
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="step-2-creating-you-hugo-site">Step 2: Creating you hugo site&lt;/h2>
-&lt;p>Open terminal and run:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>hugo new site&amp;lt;enter name of site&amp;gt; &lt;span style="color:#75715e">#this allows to install all the main files that hugo allows&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cd &amp;lt;name of your site&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="step-3-choosing-theme">Step 3: Choosing theme:&lt;/h2>
-&lt;p>There are many themes you can choose from on the Hugo site &lt;a href="https://themes.gohugo.io./">Hugo Themes&lt;/a>.I chose PaperMod because it has a very slick and clean look to it.&lt;/p></description></item><item><title>Beginner guide to Git and GitHub</title><link>https://KabeerBig.github.io/posts/first/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://KabeerBig.github.io/posts/first/</guid><description>&lt;hr>
-&lt;h2 id="publishresources-false">title: &amp;ldquo;Content Placeholder&amp;rdquo;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kabeer Shoaib</title>
+    <link>https://KabeerBig.github.io/</link>
+    <description>Recent content on Kabeer Shoaib</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Oct 2025 14:42:28 +0500</lastBuildDate>
+    <atom:link href="https://KabeerBig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asynchronous Programming</title>
+      <link>https://KabeerBig.github.io/posts/fourth/</link>
+      <pubDate>Sat, 18 Oct 2025 14:42:28 +0500</pubDate>
+      <guid>https://KabeerBig.github.io/posts/fourth/</guid>
+      <description>&lt;h2 id=&#34;what-is-asynchronous-programming&#34;&gt;What is Asynchronous Programming?&lt;/h2&gt;
+&lt;p&gt;Imagine you’re heating leftover food in the oven. While it’s warming up, you don’t just stand there waiting — you start cleaning the dishes and putting them away.
+The oven continues heating your food in the background, and you finish another task in the meantime.
+That’s asynchronous programming in a nutshell.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Asynchronous&lt;/strong&gt; basically allows your application to stay responsive no matter the workload.Its a programming paradigm that allows a program to start a task and continue executing other tasks before the first one finishes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DOCKER</title>
+      <link>https://KabeerBig.github.io/posts/fifth/</link>
+      <pubDate>Sat, 18 Oct 2025 14:42:28 +0500</pubDate>
+      <guid>https://KabeerBig.github.io/posts/fifth/</guid>
+      <description>&lt;h2 id=&#34;what-is-docker&#34;&gt;What is DOCKER?&lt;/h2&gt;
+&lt;p&gt;Imagine you have a recipe of a dish you made perfectly at home for your friends and family. Then you pass on your recipe to one of you friends and the food doesnt taste the same as when you made it maybe due to different brand of ingredients etc..&lt;/p&gt;
+&lt;p&gt;Thats where &lt;strong&gt;DOCKER&lt;/strong&gt; solves the &lt;strong&gt;&amp;ldquo;It works on my machine&amp;rdquo;&lt;/strong&gt; within programming.&lt;br&gt;
+Docker helps in grouping your &lt;strong&gt;application + its environment&lt;/strong&gt;(dependencies,libraries,OS setup) all into a &lt;em&gt;container&lt;/em&gt;.
+This allows your app to run everywhere the same.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Understanding and Setting up VOIP with the help of Asterisk</title>
+      <link>https://KabeerBig.github.io/posts/third/</link>
+      <pubDate>Wed, 09 Jul 2025 00:20:44 +0400</pubDate>
+      <guid>https://KabeerBig.github.io/posts/third/</guid>
+      <description>&lt;p&gt;Have you ever wondered how does communication with one another work on a network and what is the science behind it. This blog will give a touch on what its like to connect and send digitalized packets over an internet connection&lt;/p&gt;
+&lt;h2 id=&#34;-what-is-voip&#34;&gt;🧠 What is VoIP?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;VoIP (Voice over Internet Protocol)&lt;/strong&gt; is a protocal that allows us humans to perform voice communication over the internet instead of traditional telephone networks (PSTN). Top main communication companies such as Instagram, Whatssapp, Google make use of VOIP in setting up their communication systems&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setting up a Website using GitHub Pages</title>
+      <link>https://KabeerBig.github.io/posts/second/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://KabeerBig.github.io/posts/second/</guid>
+      <description>&lt;p&gt;This is a guide that will help you in creating your own personal website using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, and deplyoing it with GitHub pages&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Git installed&lt;/li&gt;
+&lt;li&gt;Hugo installed&lt;/li&gt;
+&lt;li&gt;GitHub Account&lt;/li&gt;
+&lt;li&gt;Knowing how to use the terminal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-1-installing-hugo&#34;&gt;Step 1: Installing Hugo&lt;/h2&gt;
+&lt;p&gt;I use &lt;strong&gt;Arch&lt;/strong&gt; so i installed it using:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo pacman -S hugo
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;For Debian/Ubuntu users:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt install hugo
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;step-2-creating-you-hugo-site&#34;&gt;Step 2: Creating you hugo site&lt;/h2&gt;
+&lt;p&gt;Open terminal and run:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new site&amp;lt;enter name of site&amp;gt; &lt;span style=&#34;color:#75715e&#34;&gt;#this allows to install all the main files that hugo allows&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cd &amp;lt;name of your site&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;step-3-choosing-theme&#34;&gt;Step 3: Choosing theme:&lt;/h2&gt;
+&lt;p&gt;There are many themes you can choose from on the Hugo site &lt;a href=&#34;https://themes.gohugo.io./&#34;&gt;Hugo Themes&lt;/a&gt;.I chose PaperMod because it has a very slick and clean look to it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beginner guide to Git and GitHub</title>
+      <link>https://KabeerBig.github.io/posts/first/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://KabeerBig.github.io/posts/first/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;publishresources-false&#34;&gt;title: &amp;ldquo;Content Placeholder&amp;rdquo;
 build:
 render: never
 list: never
-publishResources: false&lt;/h2>
-&lt;p>Are you just starting out in programming? Great! Let me introduce you to two of your soon-to-be best friends: &lt;strong>Git&lt;/strong> and &lt;strong>GitHub&lt;/strong>.&lt;/p>
-&lt;hr>
-&lt;h2 id="what-is-git">What Is Git?&lt;/h2>
-&lt;p>&lt;strong>Git&lt;/strong> is a &lt;strong>version control system&lt;/strong>. Imagine you&amp;rsquo;re working on a big project. You want to save different versions of it, go back to a previous version if something breaks, and collaborate with friends without losing work. That&amp;rsquo;s what Git helps you do.&lt;/p></description></item></channel></rss>
+publishResources: false&lt;/h2&gt;
+&lt;p&gt;Are you just starting out in programming? Great! Let me introduce you to two of your soon-to-be best friends: &lt;strong&gt;Git&lt;/strong&gt; and &lt;strong&gt;GitHub&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-git&#34;&gt;What Is Git?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Git&lt;/strong&gt; is a &lt;strong&gt;version control system&lt;/strong&gt;. Imagine you&amp;rsquo;re working on a big project. You want to save different versions of it, go back to a previous version if something breaks, and collaborate with friends without losing work. That&amp;rsquo;s what Git helps you do.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
