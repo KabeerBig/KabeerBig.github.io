@@ -6,8 +6,19 @@
     <description>Recent content on Kabeer Shoaib</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Oct 2025 14:42:28 +0500</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 14:42:28 +0500</lastBuildDate>
     <atom:link href="https://KabeerBig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DOCKER</title>
+      <link>https://KabeerBig.github.io/posts/fifth/</link>
+      <pubDate>Mon, 17 Nov 2025 14:42:28 +0500</pubDate>
+      <guid>https://KabeerBig.github.io/posts/fifth/</guid>
+      <description>&lt;h2 id=&#34;what-is-docker&#34;&gt;What is DOCKER?&lt;/h2&gt;
+&lt;p&gt;Imagine you have a recipe of a dish you made perfectly at home for your friends and family. Then you pass on your recipe to one of your friends and the food doesn’t taste the same as when you made it — maybe due to different brands of ingredients, or a slightly different stove.&lt;/p&gt;
+&lt;p&gt;That’s where &lt;strong&gt;DOCKER&lt;/strong&gt; solves the &lt;strong&gt;“It works on my machine”&lt;/strong&gt; problem in programming.&lt;br&gt;
+Docker helps in grouping your &lt;strong&gt;application + its environment&lt;/strong&gt; (dependencies, libraries, OS setup) all into a &lt;em&gt;container&lt;/em&gt;.&lt;br&gt;
+This allows your app to run everywhere exactly the same.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Asynchronous Programming</title>
       <link>https://KabeerBig.github.io/posts/fourth/</link>
@@ -18,17 +29,6 @@
 The oven continues heating your food in the background, and you finish another task in the meantime.
 That’s asynchronous programming in a nutshell.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Asynchronous&lt;/strong&gt; basically allows your application to stay responsive no matter the workload.Its a programming paradigm that allows a program to start a task and continue executing other tasks before the first one finishes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DOCKER</title>
-      <link>https://KabeerBig.github.io/posts/fifth/</link>
-      <pubDate>Sat, 18 Oct 2025 14:42:28 +0500</pubDate>
-      <guid>https://KabeerBig.github.io/posts/fifth/</guid>
-      <description>&lt;h2 id=&#34;what-is-docker&#34;&gt;What is DOCKER?&lt;/h2&gt;
-&lt;p&gt;Imagine you have a recipe of a dish you made perfectly at home for your friends and family. Then you pass on your recipe to one of your friends and the food doesn’t taste the same as when you made it — maybe due to different brands of ingredients, or a slightly different stove.&lt;/p&gt;
-&lt;p&gt;That’s where &lt;strong&gt;DOCKER&lt;/strong&gt; solves the &lt;strong&gt;“It works on my machine”&lt;/strong&gt; problem in programming.&lt;br&gt;
-Docker helps in grouping your &lt;strong&gt;application + its environment&lt;/strong&gt; (dependencies, libraries, OS setup) all into a &lt;em&gt;container&lt;/em&gt;.&lt;br&gt;
-This allows your app to run everywhere exactly the same.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understanding and Setting up VOIP with the help of Asterisk</title>
